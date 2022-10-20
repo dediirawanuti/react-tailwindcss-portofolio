@@ -9,7 +9,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^1.1.5"
   },
-  "homepage": "https://dediirawanuti.github.io/react-tailwindcss-portofolio",
+  "homepage": "https://dediirawanuti.github.io/react-tailwindcss-portofolio/",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "gh-pages": "^4.0.0",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }
